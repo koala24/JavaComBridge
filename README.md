@@ -51,6 +51,10 @@ http://stackoverflow.com/questions/3547587/how-to-choose-a-java-com-bridge
   
   JACOB: http://danadler.com/jacob/
     -- nicht aktiv
+    
+    
+    Gute Com Tuts und weitere Java Com Bridges (ganz unten):
+    http://jdiscar.blogspot.de/2009/08/my-path-to-javacom-bridge.html
   
   
   
